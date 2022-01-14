@@ -75,7 +75,7 @@ def argument_parser():
 
     args = parser.parse_args()
     args.targets = args.targets.split(",")
-    print(args.targets)
+    args.paths = args.paths.split(",")
     return args
 
 
