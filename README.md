@@ -23,7 +23,7 @@ VENV activation: `poetry shell` or `source venv/bin/activate.bat`
 ## Usage
 
 `./runtool.py [-h] [--token [TOKEN]] -targets [TARGETS] [--paths [PATHS]] [--resolve [BOOL]]` where:
-1. token - BEREAR token. But you can also try without token (anon users are common issue!)
+1. token - BEARER token. But you can also try without token (anon users are common issue!)
 2. targets - targets that could be resolved. This targets could be scanned on open ports and vulnerabilities.
 3. paths - API paths for RHOCP (OpenShift).
 4. resolve - try to resolve DNS into different addresses.
