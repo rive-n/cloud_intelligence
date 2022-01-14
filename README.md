@@ -1,5 +1,5 @@
 # cloud_intelligence - K8S OSINT tool.
-![logo](https://github.com/Pragma-Edragon/cloud_intelligence/blob/master/cloud_intelligence.png)
+![logo](https://github.com/rive-n/cloud_intelligence/blob/master/cloud_intelligence.png)
 
 # Why is it profitable to use this tool?
 1. Speed.
